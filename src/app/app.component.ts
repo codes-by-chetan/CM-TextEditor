@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
-import { CMTextEditorComponent, ToolbarConfigType } from 'CMEditor';
+import { CMTextEditorComponent, ToolbarConfigType } from 'cm-text_editor';
 
 @Component({
   selector: 'app-root',
