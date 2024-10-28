@@ -1,0 +1,33 @@
+{
+  "name": "cm-text_editor",
+  "version": "0.0.7",
+  "description": "A rich text editor for Angular applications with essential formatting options, customizable toolbar, and ngModel binding support.",
+  "keywords": [
+    "angular",
+    "text-editor",
+    "rich-text-editor",
+    "wysiwyg",
+    "editor",
+    "angular-text-editor",
+    "customizable",
+    "ngModel",
+    "open-source",
+    "content-editable",
+    "toolbar",
+    "text-formatting",
+    "angular-library",
+    "typescript",
+    "cm text editor",
+    "rich text editor",
+    "text editor for angular"
+  ],
+  "author": "Chetan Mohite",
+  "peerDependencies": {
+    "@angular/common": "^18.2.0",
+    "@angular/core": "^18.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
