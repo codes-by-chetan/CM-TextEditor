@@ -17,8 +17,8 @@ export class AppComponent {
     <b>CM Text Editor</b></h1>
     <div><br></div>Hello There I'm Using <b>CM Text Editor</b>!&nbsp;
     <div><br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-    <b>CM Text Editor</b> is a rich text editor for Angular applications, o
-    ffering a simple yet powerful interface. It's open source and free to use, 
+    <b>CM Text Editor</b> is a rich text editor for Angular applications, 
+    offering a simple yet powerful interface. It's open source and free to use, 
     making it accessible to everyone. This library is designed to provide 
     easy integration, full customization options, 
     and seamless two-way data binding.</div>
